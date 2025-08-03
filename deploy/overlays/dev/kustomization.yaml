@@ -1,0 +1,6 @@
+bases:
+  - ../../base
+
+images:
+  - name: yuvakkrishnan/go-microservice
+    newTag: "latest"
